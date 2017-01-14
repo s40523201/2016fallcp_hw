@@ -163,13 +163,16 @@
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
-<v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
-<v t="leo.20161014142409.1"><vh>@edit 20161014.md</vh></v>
-<v t="leo.20161024160947.1"><vh>@edit 20161024.md</vh></v>
-<v t="leo.20161031141953.1"><vh>@edit 20161031.md</vh></v>
-<v t="leo.20161128144234.1"><vh>@edit 20161114.md</vh></v>
-<v t="leo.20170109140917.1"><vh>@edit 20160109.md</vh></v>
+<v t="leo.20170114230028.1" a="E"><vh>201609</vh>
+<v t="leo.20170114230028.2"><vh>@edit 20160921.md</vh></v>
+<v t="leo.20170114230028.3"><vh>@edit 20161014.md</vh></v>
+<v t="leo.20170114230028.4"><vh>@edit 20161024.md</vh></v>
+<v t="leo.20170114230028.5"><vh>@edit 20161031.md</vh></v>
+<v t="leo.20170114230028.6"><vh>@edit 20161128.md</vh></v>
+<v t="leo.20170114230028.7"><vh>@edit 20161205.md</vh></v>
+<v t="leo.20170114230028.8"><vh>@edit 20161212.md</vh></v>
+<v t="leo.20170114230028.9"><vh>@edit 20161121.md</vh></v>
+<v t="leo.20170114230028.10"><vh>@edit 20170109.md</vh></v>
 </v>
 </v>
 </v>
@@ -215,7 +218,6 @@ print("hello")
 <t tx="amd.20160106094754.1"></t>
 <t tx="amd.20160106094829.1"></t>
 <t tx="amd.20160106095324.1"></t>
-<t tx="amd.20160727114506.1"></t>
 <t tx="amd.20160921213353.1"></t>
 <t tx="amd.20161004083800.1">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
@@ -312,7 +314,7 @@ print("hello")
 Created by [s40523201](http://chiamingyen.github.io/KMOlob/blog/)
 &lt;/small&gt;
 
-[blog](blog/index.html)
+[40523201](blog/index.html)
 
 </t>
 <t tx="amd.20161004104641.1">&lt;section data-markdown&gt;
@@ -477,6 +479,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
 
 DEFAULT_DATE = 'fs'</t>
+<t tx="leo.20170114230028.1"></t>
 <t tx="yen.20161011114704.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
